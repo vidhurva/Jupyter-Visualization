@@ -39,3 +39,7 @@ $  jupyter labextension install bqplot
 
 Visualizations:
 -----
+Epic Scatter Plot featuring vibrant colors:
+
+Annual Household Income by District:
+<img width="579" alt="screen shot 2019-01-08 at 4 03 20 pm" src="https://user-images.githubusercontent.com/27433542/50858658-00ef1480-135f-11e9-8719-97499aea1678.png">
