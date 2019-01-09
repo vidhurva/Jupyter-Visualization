@@ -21,7 +21,9 @@ Visualization:
 -----
 <img width="783" alt="coordinate results" src="https://user-images.githubusercontent.com/27433542/50857780-9e951480-135c-11e9-88ef-c25738ef5881.png">
 
-I later add the option to create circular and rectangular shapes on the map to pinpoint specific locations.
+I later add the option to create circular and rectangular shapes on the map to pinpoint specific locations. The shapes represent the distance from my college to my favorite ramen place (which you all should go).
+
+<img width="612" alt="screen shot 2019-01-09 at 5 30 55 pm" src="https://user-images.githubusercontent.com/27433542/50932823-bf309d80-1434-11e9-8625-bf0fef702e35.png">
 
 Project 2 - Some Epic Scatter Plots:
 -----
