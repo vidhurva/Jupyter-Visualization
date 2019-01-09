@@ -4,7 +4,7 @@ A series of projects conveying the different types of visualizations on Jupyter 
 Introduction
 ---
 
-I'm back on the Python life, and I'll be developing new projects and projects innovated from tutorials on Jupyter! In particular, I will be practicing Juptyer's interactive widgets, which allows me to visualize data and graphs. Additionally, I will be attaching my codes and images resulting from the code.
+I'm back on the Python life, and I'll be developing new projects and projects innovated from tutorials on Jupyter! In particular, I will be practicing Juptyer's interactive widgets, which allows me to visualize data and graphs. Additionally, I will be attaching my codes as Jupyter notebooks and visualizations in the readme.
 
 Project 1 - The Magic of Maps:
 ---
@@ -20,6 +20,8 @@ $ conda install -c conda-forge ipyleaflet
 Visualization:
 -----
 <img width="783" alt="coordinate results" src="https://user-images.githubusercontent.com/27433542/50857780-9e951480-135c-11e9-88ef-c25738ef5881.png">
+
+I later add the option to create circular and rectangular shapes on the map to pinpoint specific locations.
 
 Project 2 - Some Epic Scatter Plots:
 -----
