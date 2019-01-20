@@ -66,3 +66,5 @@ $ conda install -c conda-forge ipyvolume
 Visualization:
 -----
 An Unknown yet Potentially Brilliant 3D Graph:
+
+<img width="416" alt="screen shot 2019-01-20 at 4 51 17 pm" src="https://user-images.githubusercontent.com/27433542/51445497-a1382800-1cd3-11e9-9f32-9db6e81526e2.png">
