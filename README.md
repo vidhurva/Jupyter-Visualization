@@ -50,3 +50,19 @@ Epic Scatter Plot featuring vibrant colors:
 Annual Household Income by District:
 
 <img width="579" alt="screen shot 2019-01-08 at 4 03 20 pm" src="https://user-images.githubusercontent.com/27433542/50858658-00ef1480-135f-11e9-8719-97499aea1678.png">
+
+Project 3 - The 3rd Dimension:
+-----
+
+In Project 3, I implement 3-D plot models using ipyvolume. Users who wish to allow the plot to move through a time lapse can add *"*stream.data"* to their code. With the ipyvolume library, I developed a 3-D plot featuring purple cones. 
+
+Installation
+-----
+Using conda:
+```
+$ conda install -c conda-forge ipyvolume
+```
+
+Visualization:
+-----
+An Unknown yet Potentially Brilliant 3D Graph:
