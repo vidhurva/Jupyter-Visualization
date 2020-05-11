@@ -1,4 +1,4 @@
-# Jupyter-Visualization
+# Jupyter Notebook: Visualization
 A series of projects conveying the different types of visualizations on Jupyter with Notebook Widgets
 
 Introduction
