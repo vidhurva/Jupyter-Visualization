@@ -9,7 +9,7 @@ I'm back on the Python life, and I'll be developing new projects and projects in
 Project 1 - The Magic of Maps:
 ---
 
-This project demonstrates Geospatial analytics. Geospatial analytics allows us to use geographic coordinates to indentify a specific address or a general area of the map. The image is then produced from satellite photography. For this process to occur, first install ipyleaflet from terminal (or an equivalent to terminal depending on your computer) and then apply ipyleaflet to obtain your satellite photo. The coordinates that I implemented in this map is Hell's kitchen, NYC. 
+This project demonstrates Geospatial analytics. Geospatial analytics allows us to use geographic coordinates to identify a specific address or a general area of the map. The image is then produced from satellite photography. For this process to occur, first install ipyleaflet from terminal (or an equivalent to terminal depending on your computer) and then apply ipyleaflet to obtain your satellite photo. The coordinates that I implemented in this map is Hell's kitchen, NYC. 
 
 Installation: 
 -----
